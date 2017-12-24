@@ -1,4 +1,4 @@
-<?
+<?php
 	include("./SimpleTpl/src/SimpleTpl.php");
 
 	function sizify($size)
