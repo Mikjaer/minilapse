@@ -1,0 +1,6 @@
+---
+running: "false"
+storagePath: /var/www/minilapse.1id.dk/htdocs/www/storage
+storageUrl: /www/storage
+projectname: SceneByggeri
+...
